@@ -27,7 +27,7 @@ My purpose was learn about mobile development and meet some requirements. Here i
 <!-- Node.js -->
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
 <!-- VS Code -->
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" />
+<img src="https://api.iconify.design/mdi:visual-studio-code.svg" height="40" alt="VS Code" />
 
 # Useful Websites
 
