@@ -2,16 +2,17 @@
 
 This is my first mobile application using React. It is a news app and it is using the Data.io API to fetch the news. Here some description about the application:
 
-   ✔️The app has a landing/welcome page and there is a button that opens the home screen.
-   ✔️On the Home Screen we have a search bar and button, a carrousel with breaking news and a news trending list.
-   ✔️The menu shows the Home, Discover and Bookmarks Screens.
-   ✔️The Discover Screen allows the user to search using a search bar and choosing between categories and countries.
-   The bookmarks screen shows the bookmarked news. It is using Async Storage.
+      ✔️The app has a landing/welcome page and there is a button that opens the home screen.
+      ✔️On the Home Screen we have a search bar and button, a carrousel with breaking news and a news trending list.
+      ✔️The menu shows the Home, Discover and Bookmarks Screens.
+      ✔️The Discover Screen allows the user to search using a search bar and choosing between categories and countries.
+      ✔️The bookmarks screen shows the bookmarked news. It is using Async Storage.
 
 My purpose was learn about mobile development and meet some requirements. Here is some of the requirements I fulfilled:
-   ✔️Have at least one screen
-   ✔️Be interactive with the user (e.g. responds to inputs by displaying appropriate outputs)
-   ✔️Incorporate two or more screens
+
+      ✔️Have at least one screen
+      ✔️Be interactive with the user (e.g. responds to inputs by displaying appropriate outputs)
+      ✔️Incorporate two or more screens
 
 
 [Software Demo Video](https://youtu.be/IFtQHV2CgYA)
@@ -27,9 +28,9 @@ My purpose was learn about mobile development and meet some requirements. Here i
 <!-- Node.js -->
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" /> NODE JS
 <!-- VS Code -->
-<img src="https://api.iconify.design/mdi:visual-studio-code.svg" height="40" alt="VS Code" />VS CODE
+<img src="https://api.iconify.design/mdi:visual-studio-code.svg" height="40" alt="VS Code" /> VS CODE
 <!-- Genymotion -->
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/genymotion-icon.png" height="40" alt="VS Code" />GENYMOTION
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/genymotion-icon.png" height="40" alt="VS Code" /> GENYMOTION
 
 # Useful Websites
 
