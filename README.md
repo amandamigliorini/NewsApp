@@ -19,15 +19,17 @@ My purpose was learn about mobile development and meet some requirements. Here i
 # Development Environment
 
 <!-- React -->
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" /> REACT NATIVE
 <!-- Expo -->
-<img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" height="40" alt="Expo" />
+<img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" height="40" alt="Expo" /> EXPO
 <!-- TypeScript -->
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" /> TYPESCRIPT
 <!-- Node.js -->
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" /> NODE JS
 <!-- VS Code -->
-<img src="https://api.iconify.design/mdi:visual-studio-code.svg" height="40" alt="VS Code" />
+<img src="https://api.iconify.design/mdi:visual-studio-code.svg" height="40" alt="VS Code" />VS CODE
+<!-- Genymotion -->
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/genymotion-icon.png" height="40" alt="VS Code" />GENYMOTION
 
 # Useful Websites
 
